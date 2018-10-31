@@ -7,6 +7,7 @@ Database::connect('school', 'root', '');
 $grades = new Grade($id, "std");
 ?>
 
+
 <body>    
     <header>
         <!-- Fixed navbar -->
